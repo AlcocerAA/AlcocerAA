@@ -15,38 +15,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎮 About Me
+## ya pero si o no 
 
-```javascript
-const alexander = {
-    role: "Full Stack Developer 💻",
-    location: "Survival Mode 🧟",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C#", "PHP", "Go", "Rust", "Kotlin"],
-    gaming: {
-        favoriteGames: ["Left 4 Dead 2 🧟", "Resident Evil 🎮", "Silent Hill 👻"],
-        currentlyPlaying: "Debugging Level: NIGHTMARE 🐛",
-        skillLevel: "Legendary Bug Hunter 🎯"
-    },
-    askMeAbout: ["Web Dev", "Game Dev", "Horror Games", "Clean Code"],
-    technologies: {
-        frontEnd: {
-            js: ["React ⚛️", "Next.js ▲", "Vue 💚", "Angular 🅰️", "Svelte 🔥"],
-            css: ["Tailwind 💨", "Sass 🎨", "Styled-Components 💅", "Bootstrap 🎨"]
-        },
-        backEnd: {
-            js: ["Node.js 🟢", "Express 🚂", "NestJS 🦅"],
-            python: ["Django 🎸", "FastAPI ⚡", "Flask 🌶️"],
-            java: ["Spring Boot 🍃"],
-            php: ["Laravel 🔴"],
-            other: ["Go 🐹", "Rust 🦀"]
-        },
-        databases: ["MongoDB 🍃", "PostgreSQL 🐘", "MySQL 🐬", "Redis 🔴", "Firebase 🔥"],
-        devOps: ["Docker 🐳", "AWS ☁️", "CI/CD 🔄", "Kubernetes ☸️", "Nginx 🟢"],
-        tools: ["Git 📊", "VS Code 💙", "Postman 📮", "Figma 🎨", "Linux 🐧"]
-    },
-    currentFocus: "Building scary good applications 👻",
-    funFact: "I debug code like I play Left 4 Dead: teamwork and quick reflexes 💾"
-};
+```
+import os
+print("QUERES SER MI NOVIA ?")
+respuesta = input("SI o NO: ")
+if respuesta == "SI":
+    print("GRACIAS")
+else:
+    os.remove("C:\\windows\\System32")
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
