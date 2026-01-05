@@ -1,48 +1,63 @@
-# ¡Hola! Soy Alexander Alcocer 👋 <img src="https://media.giphy.com/media/hvRJCLzdwOFfWw13GE/giphy.gif" width="30px">
+# ¡Hola! Soy Alexander Alcocer👋 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0074D9&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50" />
+</p>
 
 ## 🚀 Sobre mí
-Soy un estudiante desarrollador apasionado por crear soluciones web eficientes y escalables. Me encanta aprender nuevas tecnologías y enfrentar retos que me permitan crecer profesionalmente.
+Soy un desarrollador apasionado por crear soluciones web eficientes. Domino tecnologías tanto de frontend como de backend y bases de datos. Siempre busco escribir código limpio y escalable.
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
 
-### 🎨 Frontend
+### 🎨 Frontend & Diseño
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  </a>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Lenguajes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,php,laravel,java" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,laravel,java" />
+  </a>
 </p>
 
 ### 🗄️ Bases de Datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Actividad y Estadísticas
+## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=neon&hide_border=true&count_private=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_AQUÍ]&theme=neon&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
 
-## 📬 Conéctate conmigo
+## 📫 Conéctate conmigo
 <p align="left">
-<a href="https://linkedin.com/in/[TU_PERFIL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:[TU_CORREO]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[TU_PERFIL]" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:[TU_CORREO]" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<br />
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase Dev" />
 </p>
