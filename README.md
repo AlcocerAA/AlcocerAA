@@ -21,17 +21,15 @@
 
 ## 01 // PERFIL
 
-```text
-┌─ kensho@github:~ ────────────────────────────┐
-│ $ whoami                                     │
-│ Alexander Sebastian Alcocer Flores          │
-│                                              │
-│ $ cat profile.conf                           │
-│ ubicación  : Perú                            │
-│ formación  : Diseño y Desarrollo de Software │
-│ enfoque    : desarrollo · Linux · automatización │
-│ intereses  : web · backend · redes neuronales│
-└──────────────────────────────────────────────┘
+```bash
+$ whoami
+Alexander Sebastian Alcocer Flores
+
+$ cat profile.conf
+ubicación = Perú
+formación = Diseño y Desarrollo de Software
+enfoque = desarrollo · Linux · automatización
+intereses = web · backend · redes neuronales
 ```
 
 Soy desarrollador de software en formación y me gusta convertir ideas en herramientas útiles. Exploro el desarrollo web, la programación, las bases de datos y los entornos Linux, con especial interés en la automatización y la inteligencia artificial.
