@@ -17,8 +17,8 @@ $ whoami
 > Alexander Sebastian Alcocer Flores
 
 $ cat profile.conf
-location    = Arequipa, Perú
-education   = TECSUP | Diseño y Desarrollo de Software
+location    = Perú
+education   = Diseño y Desarrollo de Software
 focus       = Software Development / Linux / Automation
 interests   = Web Development / Backend / Neural Networks
 ```
