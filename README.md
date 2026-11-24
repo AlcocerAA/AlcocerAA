@@ -117,18 +117,6 @@ projects/
   </tr>
 </table>
 
-<p align="center"><sub>Las animaciones de los proyectos son ilustraciones conceptuales, no capturas de las aplicaciones.</sub></p>
-
-## 05 // CONTACTO
-
-¿Te interesa conversar sobre desarrollo de software, Linux o alguno de estos proyectos?
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexander-sebastian-alcocer-flores-0aa703390/">
-    <strong>[ CONECTA CONMIGO EN LINKEDIN ]</strong>
-  </a>
-</p>
-
 <p align="center">
   <img src="./assets/outro.gif" alt="Animación de cierre: sesión terminada, el código continúa" width="100%" />
 </p>
