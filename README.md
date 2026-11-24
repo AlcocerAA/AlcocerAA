@@ -1,122 +1,109 @@
-<!-- KENSHO / GitHub profile README — assets locales, sin servicios externos -->
+<!-- KENSHO // Perfil de desarrollador -->
+
 <p align="center">
-  <img src="./assets/identity.gif" alt="KENSHO — Alexander Alcocer, desarrollo de software y Linux" width="920" />
+  <img src="./assets/identity.gif" alt="KENSHO — perfil de Alexander Alcocer, software, Linux y automatización" width="100%" />
 </p>
 
 <p align="center">
-  <a href="#01--whoami">IDENTIDAD</a> &nbsp;·&nbsp;
-  <a href="#02--tech-stack">STACK</a> &nbsp;·&nbsp;
-  <a href="#03--project-files">PROYECTOS</a> &nbsp;·&nbsp;
-  <a href="#04--contact">CONTACTO</a>
+  <code>SOFTWARE DEVELOPMENT</code> &nbsp;·&nbsp;
+  <code>LINUX</code> &nbsp;·&nbsp;
+  <code>AUTOMATION</code>
 </p>
-
-## 01 / WHOAMI
-
-```bash
-$ whoami
-> Alexander Sebastian Alcocer Flores
-
-$ cat profile.conf
-location    = Perú
-education   = Diseño y Desarrollo de Software
-focus       = Software Development / Linux / Automation
-interests   = Web Development / Backend / Neural Networks
-```
-
-Soy desarrollador de software en formación. Trabajo con Python, aplicaciones web, bases de datos y entornos Linux. Me interesa construir herramientas que resuelvan problemas concretos, desde aplicaciones de uso cotidiano hasta proyectos de automatización e inteligencia artificial.
 
 <p align="center">
-  <img src="./assets/terminal.gif" alt="Terminal ilustrativa con Python, Linux, Git, desarrollo web y bases de datos" width="920" />
+  <a href="#01--perfil">PERFIL</a> &nbsp;·&nbsp;
+  <a href="#02--stack">STACK</a> &nbsp;·&nbsp;
+  <a href="#03--proyectos">PROYECTOS</a> &nbsp;·&nbsp;
+  <a href="#04--contacto">CONTACTO</a>
 </p>
 
-## 02 / TECH STACK
+---
 
-```python
-class Developer:
-    def __init__(self):
-        self.languages = ["Python", "PHP", "JavaScript", "SQL"]
-        self.python = ["Scripting", "Automatización", "Programación"]
-        self.linux = ["Kali Linux", "Debian", "CentOS"]
-        self.web = ["React", "Laravel", "Node.js"]
-        self.databases = ["MongoDB", "MySQL"]
-        self.tools = ["Git", "Linux Terminal"]
-```
-
-| Directorio | Tecnologías |
-| :--- | :--- |
-| `~/languages` | **Python** · PHP · JavaScript · SQL |
-| `~/linux` | Terminal Linux · Kali Linux · Debian · CentOS |
-| `~/web` | React · Laravel · Node.js |
-| `~/databases` | MongoDB · MySQL |
-| `~/version-control` | Git |
-| `~/research` | Redes neuronales — exploración y desarrollo con OASIS |
-
-## 03 / PROJECT FILES
+## 01 // PERFIL
 
 ```text
-~/projects/
-├── edumap/         # Encuentra dónde estudiar con tus preferencias
-├── dash/           # Reproductor de música
-├── oasis/          # Bot completo con redes neuronales — en desarrollo
-└── screenanswer/   # Porque más fácil no puede ser
+┌─ kensho@github:~ ────────────────────────────┐
+│ $ whoami                                     │
+│ Alexander Sebastian Alcocer Flores          │
+│                                              │
+│ $ cat profile.conf                           │
+│ ubicación  : Perú                            │
+│ formación  : Diseño y Desarrollo de Software │
+│ enfoque    : desarrollo · Linux · automatización │
+│ intereses  : web · backend · redes neuronales│
+└──────────────────────────────────────────────┘
 ```
+
+Soy desarrollador de software en formación y me gusta convertir ideas en herramientas útiles. Exploro el desarrollo web, la programación, las bases de datos y los entornos Linux, con especial interés en la automatización y la inteligencia artificial.
+
+<p align="center">
+  <img src="./assets/terminal.gif" alt="Terminal animada: Python, Linux, Git, desarrollo web y bases de datos" width="100%" />
+</p>
+
+## 02 // STACK
+
+| CAPA | TECNOLOGÍAS |
+| :--- | :--- |
+| `01 / LENGUAJES` | **Python** · PHP · JavaScript · SQL |
+| `02 / WEB` | React · Laravel · Node.js |
+| `03 / SISTEMAS` | Linux · Kali Linux · Debian · CentOS |
+| `04 / DATOS` | MongoDB · MySQL |
+| `05 / HERRAMIENTAS` | Git · terminal |
+| `06 / EXPLORACIÓN` | Redes neuronales · inteligencia artificial |
+
+## 03 // PROYECTOS
+
+Proyectos personales en distintas etapas de desarrollo:
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/edumap.gif" alt="EduMap: mapa digital con marcadores animados" width="448" />
-<h3>01 — EDUMAP</h3>
-<p><strong>Encuentra dónde estudiar con tus preferencias.</strong></p>
-<p>Plataforma orientada a la búsqueda y comparación de instituciones educativas de acuerdo con las necesidades del estudiante.</p>
-<code>EDTECH</code> · <code>DISCOVERY</code>
-<!-- Agrega aquí el enlace real al repositorio o demo cuando esté disponible. -->
-</td>
-<td width="50%" valign="top">
-<img src="./assets/dash.gif" alt="Dash: visualizador de ondas de audio animado" width="448" />
-<h3>02 — DASH</h3>
-<p><strong>Reproductor de música.</strong></p>
-<p>Proyecto propio enfocado en la reproducción musical y la experiencia de escuchar audio mediante una aplicación.</p>
-<code>MULTIMEDIA</code> · <code>AUDIO</code>
-<!-- Agrega aquí el enlace real al repositorio o demo cuando esté disponible. -->
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/oasis.gif" alt="Oasis: red neuronal con pulsos de datos animados" width="448" />
-<h3>03 — OASIS</h3>
-<p><strong>Bot completo en desarrollo.</strong></p>
-<p>Proyecto de inteligencia artificial centrado en el desarrollo de un bot y la exploración de redes neuronales.</p>
-<code>NEURAL NETWORKS</code> · <code>IN DEVELOPMENT</code>
-<!-- Agrega aquí el enlace real al repositorio o demo cuando esté disponible. -->
-</td>
-<td width="50%" valign="top">
-<img src="./assets/screenanswer.gif" alt="ScreenAnswer: interfaz conceptual de escaneo digital animado" width="448" />
-<h3>04 — SCREENANSWER</h3>
-<p><strong>Porque más fácil no puede ser.</strong></p>
-<p>Proyecto propio de software con una propuesta centrada en la simplicidad.</p>
-<code>SOFTWARE</code> · <code>SIMPLICITY</code>
-<!-- Agrega aquí el enlace real al repositorio o demo cuando esté disponible. -->
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><img src="./assets/edumap.gif" alt="Animación conceptual de EduMap, una plataforma para explorar instituciones educativas" width="100%" /></p>
+      <h3>01 / EDUMAP</h3>
+      <p><strong>Encuentra dónde estudiar con tus preferencias.</strong></p>
+      <p>Plataforma para explorar y comparar instituciones educativas según las necesidades del estudiante.</p>
+      <code>EDTECH</code> · <code>DISCOVERY</code>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><img src="./assets/dash.gif" alt="Animación conceptual de Dash con ondas de audio" width="100%" /></p>
+      <h3>02 / DASH</h3>
+      <p><strong>Un reproductor de música.</strong></p>
+      <p>Aplicación propia enfocada en la reproducción musical y en una experiencia sencilla para escuchar audio.</p>
+      <code>MULTIMEDIA</code> · <code>AUDIO</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><img src="./assets/oasis.gif" alt="Animación conceptual de OASIS, con nodos de una red neuronal" width="100%" /></p>
+      <h3>03 / OASIS</h3>
+      <p><strong>Un bot en desarrollo.</strong></p>
+      <p>Proyecto de inteligencia artificial para desarrollar un bot y explorar redes neuronales.</p>
+      <code>IA</code> · <code>EN DESARROLLO</code>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><img src="./assets/screenanswer.gif" alt="Animación conceptual de ScreenAnswer con una interfaz de escaneo" width="100%" /></p>
+      <h3>04 / SCREENANSWER</h3>
+      <p><strong>Porque más fácil no puede ser.</strong></p>
+      <p>Proyecto de software con una propuesta centrada en la simplicidad.</p>
+      <code>SOFTWARE</code> · <code>SIMPLICIDAD</code>
+    </td>
+  </tr>
 </table>
 
-<sub>Las animaciones son ilustraciones conceptuales de los proyectos, no capturas de sus interfaces reales.</sub>
+<p align="center"><sub>Las animaciones son ilustraciones conceptuales; no representan capturas de las aplicaciones.</sub></p>
 
-## 04 / CONTACT
+## 04 // CONTACTO
 
-```text
-[ CONNECTION AVAILABLE ]
-> Desarrollo de software
-> Colaboración en proyectos
-> Intercambio de conocimientos
-```
+¿Te interesa conversar sobre desarrollo de software, Linux o alguno de estos proyectos?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexander-sebastian-alcocer-flores-0aa703390/">LINKEDIN / PERFIL PROFESIONAL</a>
+  <a href="https://www.linkedin.com/in/alexander-sebastian-alcocer-flores-0aa703390/">
+    <strong>↗ CONECTA CONMIGO EN LINKEDIN</strong>
+  </a>
 </p>
 
 <p align="center">
-  <img src="./assets/outro.gif" alt="Terminal de cierre: session closed" width="920" />
+  <img src="./assets/outro.gif" alt="Animación de cierre: sesión terminada, el código continúa" width="100%" />
 </p>
 
-<p align="center"><sub>KENSHO // BUILT WITH CODE · AREQUIPA, PERÚ</sub></p>
+<p align="center"><sub>KENSHO // CÓDIGO, CURIOSIDAD Y APRENDIZAJE CONTINUO</sub></p>
