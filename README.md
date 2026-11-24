@@ -40,10 +40,6 @@
 
 Soy desarrollador de software en formación y me gusta convertir ideas en herramientas útiles. Exploro programación, desarrollo web, bases de datos y entornos Linux, con especial interés en automatización e inteligencia artificial.
 
-<p align="center">
-  <img src="./assets/identity.gif" alt="Globo digital animado del perfil KENSHO" width="100%" />
-</p>
-
 ## 02 // ARSENAL
 
 <p align="center">
