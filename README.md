@@ -48,7 +48,7 @@ Soy desarrollador de software en formación y me gusta convertir ideas en herram
 
 | MÓDULO | TECNOLOGÍAS |
 | :--- | :--- |
-| `01 / LENGUAJES` | **Python** · PHP · JavaScript · SQL |
+| `01 / LENGUAJES` | **Python** · PHP  · SQL |
 | `02 / WEB` | React · Laravel · Node.js |
 | `03 / SISTEMAS` | Linux · Kali Linux · Debian · CentOS |
 | `04 / DATOS` | MongoDB · MySQL |
